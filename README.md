@@ -1,8 +1,8 @@
 ## Sobre 
-- Trabalhando com desenvolvimento Web +10 anos, sempre buscando novos aprendizados
-- Typescript (NodeJS, React, Express). **Me aprofundando em Node, Reactjs e Angular**
-- Desenvolvendo Softwares aplicando técnicas de BDD/TDD em Test Unitários, Clean Code e SOLID prezando pela qualidade, legibilidade e manutenabilidade do código
-- A maioria dos repositórios são de estudos e cursos como Kafka, RabbitMQ, Gemini AI, Keycloack, Cucumber
+- Trabalhando com desenvolvimento Web +10 anos, sempre buscando novos aprendizados.
+- Typescript (NodeJS, React, Express). **Me aprofundando em Node, Reactjs e Angular**.
+- Desenvolvendo Softwares aplicando técnicas de BDD/TDD em Test Unitários, Clean Code e SOLID prezando pela qualidade, legibilidade e manutenabilidade do código.
+- A maioria dos repositórios são de estudos e cursos como Kafka, RabbitMQ, Gemini AI, Keycloack, Cucumber, TCC ...
 
 ## Minhas Stacks
 
