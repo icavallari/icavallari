@@ -1,4 +1,7 @@
-## Sobre 
+## Rodrigo Cavallari 
+
+**`Desenvolvedor Full-stack`**
+
 - Trabalhando com desenvolvimento Web +10 anos, sempre buscando novos aprendizados.
 - Typescript (NodeJS, React, Express). **Me aprofundando em Node, Reactjs e Angular**.
 - Desenvolvendo Softwares aplicando técnicas de BDD/TDD em Test Unitários, Clean Code e SOLID prezando pela qualidade, legibilidade e manutenabilidade do código.
@@ -15,6 +18,7 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">&nbsp;&nbsp;
     <img height="35"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;&nbsp;
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">&nbsp;&nbsp;
     <!--<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/archive/8/8e/20230404233502%21Nextjs-logo.svg">&nbsp;&nbsp; -->
     <img height="40"
         src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">&nbsp;&nbsp;
