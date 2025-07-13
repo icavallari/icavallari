@@ -2,10 +2,17 @@
 
 **`Desenvolvedor Full-stack`**
 
-- Trabalhando com desenvolvimento Web +10 anos, sempre buscando novos desafios/aprendizados.
-- Typescript (NodeJS, React, Express). **Me aprofundando em Node, Reactjs e Angular**.
-- Desenvolvendo Softwares aplicando técnicas de BDD/TDD em Test Unitários, Clean Code e SOLID prezando pela qualidade, legibilidade e manutenabilidade do código.
-- A maioria dos repositórios são de estudos e cursos como Kafka, RabbitMQ, Gemini AI, Keycloack, Cucumber, TCC ...
+- Com +10 anos trabalhando com Desenvolvimento de Softwares, sempre buscando novos desafios e aprendizados.
+
+## Principais Competências Técnicas
+- **Backend:** Java 21, Spring Boot, Spring Security, Spring Data, API REST, Microsserviços, RabbitMQ, Redis, PostgreSQL, MySQL
+- **Frontend:** React.js, TypeScript, JavaScript, Next.js, Vue.js, HTML5, CSS3
+- **DevOps & Ferramentas:** Docker, Git, Jenkins (CI/CD), Swagger, Liquibase, Kibana, Keycloak
+- **Metodologias:** TDD/BDD, Clean Code, SOLID, Scrum, Testes Unitários (JUnit, Mockito, Cucumber)
+  
+- **`Me aprofundando em Node.js, React.js e Angular`**
+
+- *A maioria dos repositórios são de estudos e cursos como Kafka, RabbitMQ, Gemini AI, Keycloack, Cucumber, TCC ...*
 
 ## Stacks
 
