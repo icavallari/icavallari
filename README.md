@@ -1,6 +1,6 @@
 ## Rodrigo Cavallari 
 
-**`Desenvolvedor Full-stack`**
+**`Desenvolvedor Full-stack`**  **`Me especializando em Node.js, React.js e Angular`**
 
 - Com +10 anos trabalhando com Desenvolvimento de Softwares, sempre buscando novos desafios e aprendizados.
 
@@ -9,8 +9,6 @@
 - **Frontend:** React.js, TypeScript, JavaScript, Next.js, Vue.js, HTML5, CSS3
 - **DevOps & Ferramentas:** Docker, Git, Jenkins (CI/CD), Swagger, Liquibase, Kibana, Keycloak
 - **Metodologias:** TDD/BDD, Clean Code, SOLID, Scrum, Testes Unitários (JUnit, Mockito, Cucumber)
-  
-- **`Me aprofundando em Node.js, React.js e Angular`**
 
 - *A maioria dos repositórios são de estudos e cursos como Kafka, RabbitMQ, Gemini AI, Keycloack, Cucumber, TCC ...*
 
