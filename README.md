@@ -17,9 +17,10 @@
     <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript">&nbsp;&nbsp;
     <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript">&nbsp;&nbsp;
     <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs">&nbsp;&nbsp;
+    <img height="30" width="30" src="https://nestjs.com/img/logo-small.svg" alt="nodejs">&nbsp;&nbsp;
     <img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="reactjs">&nbsp;&nbsp;
     <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs">&nbsp;&nbsp;
-    <img height="20" width="20" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="java">&nbsp;&nbsp;
+    <img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="java">&nbsp;&nbsp;
     <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="spring boot">&nbsp;&nbsp;
     <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresSQL">&nbsp;&nbsp;
     <img height="55" width="55" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mySQL">&nbsp;&nbsp;
